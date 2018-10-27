@@ -2,9 +2,11 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+This is the business page for  [Joshua Edwards](https://www.zhihu.com/people/joshua-edwards).
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+I've been teaching for many years and hope you will find the articles and video here useful.
+
+You are also welcome to add me on WeChat: jtedwards21.
 
 ### Standard features:
 
