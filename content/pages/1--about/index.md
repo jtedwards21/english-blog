@@ -10,6 +10,8 @@ You are also welcome to add me on WeChat: jtedwards21.
 
 ### Standard features:
 
+* [Business Builder](https://pan.baidu.com/s/16jK2AQY_0_NkHUbYPCA-pg) 提取码: xmnz
+
 * Easy editable content in **Markdown** files (posts, pages and parts)
 * **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
 * **Social** sharing (Twitter, Facebook, Google, LinkedIn)
